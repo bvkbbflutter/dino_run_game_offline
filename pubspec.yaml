@@ -1,9 +1,9 @@
 name: dino_run_game
 description: A customizable endless runner game widget for Flutter. Inspired by the Chrome Dino game, featuring progressive difficulty, dark/light themes, and responsive design.
 version: 1.0.0
-homepage: https://github.com/yourusername/dino_run_game
-repository: https://github.com/yourusername/dino_run_game
-issue_tracker: https://github.com/yourusername/dino_run_game/issues
+homepage: https://github.com/bvkbbflutter/dino_run_game_offline
+repository: https://github.com/bvkbbflutter/dino_run_game_offline.git
+issue_tracker: https://github.com/bvkbbflutter/dino_run_game_offline/issues
 
 
 environment:
