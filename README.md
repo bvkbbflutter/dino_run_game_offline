@@ -2,7 +2,7 @@
 
 A customizable, cross-platform endless runner game widget for Flutter, inspired by the Chrome Dino game.
 
-![Dino Run Game Screenshot](https://raw.githubusercontent.com/bvkbbflutter/dino_run_game/main/assets/images/dyno_run_game.png)
+![Dino Run Game Screenshot](https://raw.githubusercontent.com/bvkbbflutter/dino_run_game_offline/main/assets/images/dyno_run_game.png)
 
 [![pub package](https://img.shields.io/pub/v/dino_run_game.svg)](https://pub.dev/packages/dino_run_game)
 
