@@ -5,7 +5,6 @@ A customizable, cross-platform endless runner game widget for Flutter, inspired 
 ![Dino Run Game Screenshot](https://raw.githubusercontent.com/yourusername/dino_run_game/main/assets/images/dyno_run_game.png)
 
 [![pub package](https://img.shields.io/pub/v/dino_run_game.svg)](https://pub.dev/packages/dino_run_game)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
 
