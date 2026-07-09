@@ -2,6 +2,11 @@
 ### `CHANGELOG.md`
 
 ```markdown
+
+
+## 1.0.1
+- cleared bugs
+
 ## 1.0.0
 
 - Initial release
